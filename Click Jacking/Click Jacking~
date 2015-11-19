@@ -1,0 +1,29 @@
+#https://www.owasp.org/index.php/Clickjacking
+
+#https://www.owasp.org/index.php/Testing_for_Clickjacking_%28OTG-CLIENT-009%29
+
+#http://www.troyhunt.com/2013/05/clickjack-attack-hidden-threat-right-in.html
+
+#http://www.javascript.info/tutorial/clickjacking
+
+#https://blog.cyveillance.com/x-frame-options-clickjacking/
+
+#https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet
+
+#https://en.wikipedia.org/wiki/Clickjacking
+
+#http://www.hackersthirst.com/2011/01/how-to-do-clickjacking-attack-video.html
+
+
+Clickjacking (User Interface redress attack, UI redress attack, UI redressing) is a malicious technique of tricking a Web user into clicking on something different from what the user perceives they are clicking on, thus potentially revealing confidential information or taking control of their computer while clicking on seemingly innocuous web pages.
+
+
+
+Tools -
+
+
+#http://samy.pl/quickjack/
+
+#http://www.contextis.com/services/research/clickjacking-tool/  (imp)
+
+#http://www.hackersonlineclub.com/clickjacking/
